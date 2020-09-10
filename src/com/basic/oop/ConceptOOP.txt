@@ -1,0 +1,60 @@
+OOP
+programming technique to write programs based on the real world objects
+
+
+advantages of OOPS
+Simplicity
+
+Modularity
+
+Modifiability
+
+Extensibility
+
+Maintainability
+
+Reusability
+
+
+
+What are the four basic principles/ building blocks of OOP (object oriented programming)?
+
+Inheritance
+Encapsulation
+Abstraction
+Polymorphism
+
+Inheritance :
+The Child inherits the properties of the Parent
+
+class Parent { ... }
+
+class Child extends Parent { ... }
+
+
+
+
+Encapsulation :
+bind your data and code together as a single unit
+hide your data in order to make it safe from any modification
+
+We can achieve encapsulation in Java by:
+
+Declaring the variables of a class as private.
+Providing public setter and getter methods to modify and view the variables values.
+
+
+
+
+Abstraction :
+Data abstraction is the process of hiding certain details 
+and showing only essential information to the user. 
+Abstraction can be achieved with either abstract classes or interfaces 
+
+
+
+
+
+Polymorphism :
+‘poly’ means many and ‘morph’ means forms
+define one interface or method and have multiple implementations
